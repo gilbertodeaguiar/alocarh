@@ -1,0 +1,126 @@
+<definicaoCaracteristica nome="Engenharia de Computação" nomeTipoDefinicaoCaracteristica="Área Acadêmica"/>
+<definicaoCaracteristica nome="Informática" nomeTipoDefinicaoCaracteristica="Área Acadêmica"/>
+<definicaoCaracteristica nome="Economia" nomeTipoDefinicaoCaracteristica="Área Acadêmica"/>
+<definicaoCaracteristica nome="Engenharia de Telecomunicações" nomeTipoDefinicaoCaracteristica="Área Acadêmica"/>
+<definicaoCaracteristica nome="Administração de Empresas" nomeTipoDefinicaoCaracteristica="Área Acadêmica"/>
+<definicaoCaracteristica nome="Engenharia de Software" nomeTipoDefinicaoCaracteristica="Área Acadêmica"/>
+<definicaoCaracteristica nome="Contabilidade" nomeTipoDefinicaoCaracteristica="Área Acadêmica"/>
+<definicaoCaracteristica nome="Engenharia Elétrica" nomeTipoDefinicaoCaracteristica="Área Acadêmica"/>
+<definicaoCaracteristica nome="Análise de Sistemas" nomeTipoDefinicaoCaracteristica="Área Acadêmica"/>
+<definicaoCaracteristica nome="Medicina" nomeTipoDefinicaoCaracteristica="Área Acadêmica"/>
+<definicaoCaracteristica nome="Direito" nomeTipoDefinicaoCaracteristica="Área Acadêmica"/>
+<definicaoCaracteristica nome="Engenharia Civil" nomeTipoDefinicaoCaracteristica="Área Acadêmica"/>
+<definicaoCaracteristica nome="Letras" nomeTipoDefinicaoCaracteristica="Área Acadêmica"/>
+
+
+<definicaoCaracteristica nome="UFRJ" nomeTipoDefinicaoCaracteristica="Instituição de Ensino"/>
+<definicaoCaracteristica nome="PUC/RJ" nomeTipoDefinicaoCaracteristica="Instituição de Ensino"/>
+<definicaoCaracteristica nome="UNICAMP" nomeTipoDefinicaoCaracteristica="Instituição de Ensino"/>
+<definicaoCaracteristica nome="UFMG" nomeTipoDefinicaoCaracteristica="Instituição de Ensino"/>
+<definicaoCaracteristica nome="UERJ" nomeTipoDefinicaoCaracteristica="Instituição de Ensino"/>
+<definicaoCaracteristica nome="UFES" nomeTipoDefinicaoCaracteristica="Instituição de Ensino"/>
+<definicaoCaracteristica nome="USP" nomeTipoDefinicaoCaracteristica="Instituição de Ensino"/>
+<definicaoCaracteristica nome="UFF" nomeTipoDefinicaoCaracteristica="Instituição de Ensino"/>
+<definicaoCaracteristica nome="UFPE" nomeTipoDefinicaoCaracteristica="Instituição de Ensino"/>
+<definicaoCaracteristica nome="COPPE/UFRJ" nomeTipoDefinicaoCaracteristica="Instituição de Ensino"/>
+
+
+<definicaoCaracteristica nome="Técnico" nomeTipoDefinicaoCaracteristica="Nível de Escolaridade"/>
+<definicaoCaracteristica nome="2º Grau Completo" nomeTipoDefinicaoCaracteristica="Nível de Escolaridade"/>
+v<definicaoCaracteristica nome="Superior Incompleto" nomeTipoDefinicaoCaracteristica="Nível de Escolaridade"/>
+<definicaoCaracteristica nome="Superior Completo" nomeTipoDefinicaoCaracteristica="Nível de Escolaridade"/>
+<definicaoCaracteristica nome="Pós-Graduação Incompleta" nomeTipoDefinicaoCaracteristica="Nível de Escolaridade"/>
+<definicaoCaracteristica nome="Pós-Graduação" nomeTipoDefinicaoCaracteristica="Nível de Escolaridade"/>
+<definicaoCaracteristica nome="Mestrado Incompleto" nomeTipoDefinicaoCaracteristica="Nível de Escolaridade"/>
+<definicaoCaracteristica nome="Mestrado" nomeTipoDefinicaoCaracteristica="Nível de Escolaridade"/>
+<definicaoCaracteristica nome="Doutorado Incompleto" nomeTipoDefinicaoCaracteristica="Nível de Escolaridade"/>
+<definicaoCaracteristica nome="Doutorado" nomeTipoDefinicaoCaracteristica="Nível de Escolaridade"/>
+<definicaoCaracteristica nome="Pós Doutorado" nomeTipoDefinicaoCaracteristica="Nível de Escolaridade"/>
+
+
+
+<definicaoCaracteristica nome="ASP" nomeTipoDefinicaoCaracteristica="Conhecimento"/>
+<definicaoCaracteristica nome="Análise Essencial" nomeTipoDefinicaoCaracteristica="Conhecimento"/>
+<definicaoCaracteristica nome="Análise Estruturada" nomeTipoDefinicaoCaracteristica="Conhecimento"/>
+<definicaoCaracteristica nome="Análise Orientada a Objetos" nomeTipoDefinicaoCaracteristica="Conhecimento"/>
+<definicaoCaracteristica nome="Banco de Dados" nomeTipoDefinicaoCaracteristica="Conhecimento"/>
+<definicaoCaracteristica nome="C" nomeTipoDefinicaoCaracteristica="Conhecimento"/>
+<definicaoCaracteristica nome="C++" nomeTipoDefinicaoCaracteristica="Conhecimento"/>
+<definicaoCaracteristica nome="CMMI ou MPS BR" nomeTipoDefinicaoCaracteristica="Conhecimento"/>
+<definicaoCaracteristica nome="DB/2" nomeTipoDefinicaoCaracteristica="Conhecimento"/>
+<definicaoCaracteristica nome="Delphi" nomeTipoDefinicaoCaracteristica="Conhecimento"/>
+<definicaoCaracteristica nome="Elaboração de Documentação Ajuda On-Line" nomeTipoDefinicaoCaracteristica="Conhecimento"/>
+<definicaoCaracteristica nome="Elaboração de Documentação de Software" nomeTipoDefinicaoCaracteristica="Conhecimento"/>
+<definicaoCaracteristica nome="Ferramentas de Análise" nomeTipoDefinicaoCaracteristica="Conhecimento"/>
+<definicaoCaracteristica nome="Ferramentas de Programação" nomeTipoDefinicaoCaracteristica="Conhecimento"/>
+<definicaoCaracteristica nome="Gerenciamento" nomeTipoDefinicaoCaracteristica="Conhecimento"/>
+<definicaoCaracteristica nome="Gerenciamento de Processos de Qualidade" nomeTipoDefinicaoCaracteristica="Conhecimento"/>
+<definicaoCaracteristica nome="Java" nomeTipoDefinicaoCaracteristica="Conhecimento"/>
+<definicaoCaracteristica nome="Linguagens de Programação" nomeTipoDefinicaoCaracteristica="Conhecimento"/>
+<definicaoCaracteristica nome="Línguas Estrangeiras" nomeTipoDefinicaoCaracteristica="Conhecimento"/>
+<definicaoCaracteristica nome="Metodologias de Análise" nomeTipoDefinicaoCaracteristica="Conhecimento"/>
+<definicaoCaracteristica nome="Metodologia de Desenvolvimento de Sistemas" nomeTipoDefinicaoCaracteristica="Conhecimento"/>
+<definicaoCaracteristica nome="Métricas" nomeTipoDefinicaoCaracteristica="Conhecimento"/>
+<definicaoCaracteristica nome="Microsoft Office" nomeTipoDefinicaoCaracteristica="Conhecimento"/>
+<definicaoCaracteristica nome="Modelagem de Dados" nomeTipoDefinicaoCaracteristica="Conhecimento"/>
+<definicaoCaracteristica nome="MS SQLServer" nomeTipoDefinicaoCaracteristica="Conhecimento"/>
+<definicaoCaracteristica nome="Oracle" nomeTipoDefinicaoCaracteristica="Conhecimento"/>
+<definicaoCaracteristica nome="Orientação a Objetos" nomeTipoDefinicaoCaracteristica="Conhecimento"/>
+<definicaoCaracteristica nome="Planejamento e Controle de Projetos" nomeTipoDefinicaoCaracteristica="Conhecimento"/>
+<definicaoCaracteristica nome="PMI" nomeTipoDefinicaoCaracteristica="Conhecimento"/>
+<definicaoCaracteristica nome="Procedimentos para Implantação" nomeTipoDefinicaoCaracteristica="Conhecimento"/>
+<definicaoCaracteristica nome="Programação Utilizando Linguagens Visuais" nomeTipoDefinicaoCaracteristica="Conhecimento"/>
+<definicaoCaracteristica nome="Projeto Orientado a Objetos" nomeTipoDefinicaoCaracteristica="Conhecimento"/>
+<definicaoCaracteristica nome="Power Builder" nomeTipoDefinicaoCaracteristica="Conhecimento"/>
+<definicaoCaracteristica nome="Sybase" nomeTipoDefinicaoCaracteristica="Conhecimento"/>
+<definicaoCaracteristica nome="Técnicas de Análise" nomeTipoDefinicaoCaracteristica="Conhecimento"/>
+<definicaoCaracteristica nome="Técnicas de Avaliação de Qualidade" nomeTipoDefinicaoCaracteristica="Conhecimento"/>
+<definicaoCaracteristica nome="Técnicas de Levantamento de Requisitos" nomeTipoDefinicaoCaracteristica="Conhecimento"/>
+<definicaoCaracteristica nome="Técnicas de Programação" nomeTipoDefinicaoCaracteristica="Conhecimento"/>
+<definicaoCaracteristica nome="Técnicas de Testes" nomeTipoDefinicaoCaracteristica="Conhecimento"/>
+<definicaoCaracteristica nome="Atuação em Análise" nomeTipoDefinicaoCaracteristica="Conhecimento"/>
+
+
+
+
+
+<definicaoCaracteristica nome="Agilidade" nomeTipoDefinicaoCaracteristica="Habilidade"/>
+<definicaoCaracteristica nome="Argumentação" nomeTipoDefinicaoCaracteristica="Habilidade"/>
+<definicaoCaracteristica nome="Comprometimento" nomeTipoDefinicaoCaracteristica="Habilidade"/>
+<definicaoCaracteristica nome="Comunicação Escrita" nomeTipoDefinicaoCaracteristica="Habilidade"/>
+<definicaoCaracteristica nome="Digitação" nomeTipoDefinicaoCaracteristica="Habilidade"/>
+<definicaoCaracteristica nome="Exposição de Idéias em Público" nomeTipoDefinicaoCaracteristica="Habilidade"/>
+<definicaoCaracteristica nome="Iniciativa" nomeTipoDefinicaoCaracteristica="Habilidade"/>
+<definicaoCaracteristica nome="Liderança" nomeTipoDefinicaoCaracteristica="Habilidade"/>
+<definicaoCaracteristica nome="Negociação" nomeTipoDefinicaoCaracteristica="Habilidade"/>
+<definicaoCaracteristica nome="Organização" nomeTipoDefinicaoCaracteristica="Habilidade"/>
+<definicaoCaracteristica nome="Produtividade" nomeTipoDefinicaoCaracteristica="Habilidade"/>
+<definicaoCaracteristica nome="Relacionamento com o Público" nomeTipoDefinicaoCaracteristica="Habilidade"/>
+<definicaoCaracteristica nome="Responsabilidade" nomeTipoDefinicaoCaracteristica="Habilidade"/>
+<definicaoCaracteristica nome="Trabalho em Equipe" nomeTipoDefinicaoCaracteristica="Habilidade"/>
+
+
+
+<definicaoCaracteristica nome="Francês" nomeTipoDefinicaoCaracteristica="Língua"/>
+<definicaoCaracteristica nome="Inglês" nomeTipoDefinicaoCaracteristica="Língua"/>
+<definicaoCaracteristica nome="Espanhol" nomeTipoDefinicaoCaracteristica="Língua"/>
+
+
+<definicaoCaracteristica nome="Administração de Banco de Dados" nomeTipoDefinicaoCaracteristica="Experiência"/>
+<definicaoCaracteristica nome="Auditoria" nomeTipoDefinicaoCaracteristica="Experiência"/>
+<definicaoCaracteristica nome="Aviação" nomeTipoDefinicaoCaracteristica="Experiência"/>
+<definicaoCaracteristica nome="Coordenação de Projetos" nomeTipoDefinicaoCaracteristica="Experiência"/>
+<definicaoCaracteristica nome="Factoring" nomeTipoDefinicaoCaracteristica="Experiência"/>
+<definicaoCaracteristica nome="Programação" nomeTipoDefinicaoCaracteristica="Experiência"/>
+<definicaoCaracteristica nome="Tecnologia" nomeTipoDefinicaoCaracteristica="Experiência"/>
+<definicaoCaracteristica nome="Telecomunicações" nomeTipoDefinicaoCaracteristica="Experiência"/>
+<definicaoCaracteristica nome="Turismo" nomeTipoDefinicaoCaracteristica="Experiência"/>
+<definicaoCaracteristica nome="Administração de Imóveis" nomeTipoDefinicaoCaracteristica="Experiência"/>
+<definicaoCaracteristica nome="Atuação em Análise" nomeTipoDefinicaoCaracteristica="Experiência"/>
+<definicaoCaracteristica nome="Instrutor" nomeTipoDefinicaoCaracteristica="Experiência"/>
+<definicaoCaracteristica nome="Tributação" nomeTipoDefinicaoCaracteristica="Experiência"/>
+
+
+
+
+
